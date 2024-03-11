@@ -1,0 +1,14 @@
+.sk-item {
+  background-color: bisque;
+  border: 1px solid #777;
+  margin-block: 2px;
+}
+
+.sk-span {
+  font-weight: 700;
+  color: brown;
+}
+
+.button {
+  float: right;
+}

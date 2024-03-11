@@ -1,0 +1,22 @@
+h1{
+  font-size: 50px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+input{
+  width: 100%;
+}
+
+.items-container{
+  text-align: left;
+}
+
+.sk-row{
+  margin: 10px 5px;
+}
+
+.sk-button{
+  min-width: 80px;
+}

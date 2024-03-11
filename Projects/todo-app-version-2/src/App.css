@@ -1,0 +1,11 @@
+input{
+  width: 100%;
+}
+
+.sk-row{
+  margin: 10px 5px;
+}
+
+.sk-button{
+  min-width: 80px;
+}
